@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules>
+    <module name=":app" path="/Users/nergal/Downloads/PinsDemo/app">
+        <microModule name=":main" path="/Users/nergal/Downloads/PinsDemo/app/main" useMavenArtifact="false" />
+    </module>
+    <module name=":kotlin" path="/Users/nergal/Downloads/PinsDemo/kotlin">
+        <microModule name=":main" path="/Users/nergal/Downloads/PinsDemo/kotlin/main" useMavenArtifact="false" />
+        <microModule name=":p_common" path="/Users/nergal/Downloads/PinsDemo/kotlin/p_common" useMavenArtifact="false" />
+    </module>
+</modules>

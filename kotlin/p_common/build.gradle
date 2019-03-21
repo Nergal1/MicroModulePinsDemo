@@ -1,0 +1,10 @@
+// MicroModule build file where you can add configuration options to publish MicroModule(aar) to Maven 
+// and declare MicroModule dependencies.
+
+microModule {
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'p_common/libs', include: ['*.jar'])
+}
